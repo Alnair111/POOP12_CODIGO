@@ -16,6 +16,8 @@ import static poo_proyecto.Generador_Alumno.listaAlumnos;
  *
  * @author Juarez Terrazas Al Nair
  *         Cano Ortiz Tani Itzel
+ * Clase principal en donde se van a mandar
+ * a llamar a las demas clases
  */
 public class POO_PROYECTO {
 

@@ -7,7 +7,9 @@ package poo_proyecto;
 
 /**
  *@author Alna
- * Clase Alumno
+ * Clase Alumno en esta seccion 
+ * se van a generar todos los atributos
+ * de un alumno
  */
 public class Alumno {
     /**

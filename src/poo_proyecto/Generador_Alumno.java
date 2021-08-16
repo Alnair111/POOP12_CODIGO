@@ -11,8 +11,11 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.io.*;
 /**
- *
  * @author Alna
+ * Clase que genera 500 alumnos y 
+ * los atributos aleatorios de
+ * cada alumno, a traves de funciones
+ * 
  */
 //Variables Globales
 class globalVar{
